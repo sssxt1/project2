@@ -1,4 +1,4 @@
-<%--
+﻿<%--
   Created by IntelliJ IDEA.
   User: pupil
   Date: 2015/11/28
@@ -284,7 +284,7 @@
                             <img src="/images/homePage/middle/socks/6.jpg" alt="袜子6号">
                         </a>
                         <p class="name">男士加厚运动棉袜</p>
-                        <p class="price">￥45.80</p>
+                        <p class="price">￥48</p>
                     </div>
                 </li>
             </ul>
